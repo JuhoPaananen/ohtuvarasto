@@ -1,0 +1,1 @@
+git add -p testailua varten muokattu
