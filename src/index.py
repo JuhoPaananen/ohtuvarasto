@@ -52,7 +52,7 @@ def muokkaa_varastoa_suurilla_luvuilla(mehua, olutta):
     print(f"saatiin {saatiin}")
     print(f"Olutvarasto: {olutta}")
 
-
+def mehuvaraston_virhe(mehua):
     print(f"Mehuvarasto: {mehua}")
     print("mehua.otaVarastosta(-32.9)")
     saatiin = mehua.ota_varastosta(-32.9)
